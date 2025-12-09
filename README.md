@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on **Mern Projects**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK + Next JS + TypeScript**
 
-- 👨‍💻 All of my projects are available at [http://zulqarnain-chohan-portfolio.netlify.app](http://zulqarnain-chohan-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [http://zulqarnain-chohan-portfolio.netlify.app](http://zulqarnain-portfolio-web.vercel.app)
 
 - 💬 Ask me about **javascript, react and node js**
 
